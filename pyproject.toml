@@ -3,7 +3,7 @@ name = "data-science-for-esm"
 version = "2026.04.0"
 requires-python = ">=3.13,<3.14"
 dependencies = [
-    "numpy",
+    "numpy<2.4", # pysheds numpy.in1d issue
     "scipy",
     "pandas>=2",
     "geopandas<=1.1.1",
