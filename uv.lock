@@ -1254,7 +1254,7 @@ requires-dist = [
     { name = "matplotlib" },
     { name = "netcdf4" },
     { name = "numpy" },
-    { name = "pandas" },
+    { name = "pandas", specifier = ">2" },
     { name = "plotly" },
     { name = "pre-commit" },
     { name = "pypsa", specifier = "<1.2" },
