@@ -1,6 +1,6 @@
 # Nordnet Summer School
 
-Introduction to energy system modelling with PyPSA for Nordnet Summer School 2026 in Trondheim, Norway. 
+Introduction to energy system modelling with PyPSA for Nordnet Summer School 2026 in Trondheim, Norway.
 
 ## Usage
 
