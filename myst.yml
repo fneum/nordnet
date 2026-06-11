@@ -31,13 +31,13 @@ project:
     - file: nordnet/pypsa-investment.ipynb
   - title: "Exploration: Electricity Systems"
     children:
-    - file: nordnet/pypsa-investment.ipynb
+    - file: nordnet/exploration-electricity.md
   - title: "Tutorial: Sector Coupling"
     children:
     - file: nordnet/pypsa-sectors.ipynb
   - title: "Exploration: Sector Coupling"
     children:
-    - file: nordnet/pypsa-sectors.ipynb
+    - file: nordnet/exploration-sector-coupling.md
 site:
   options:
     folders: true
