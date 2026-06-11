@@ -21,24 +21,15 @@ project:
     output_matplotlib_strings: remove
   toc:
   - file: nordnet/intro.md
-  - title: Introduction
-    children:
-    - file: nordnet/setup.md
-    - file: nordnet/python-pandas.ipynb
-  - title: "Tutorial: Electricity Systems"
-    children:
-    - file: nordnet/pypsa-intro.ipynb
-    - file: nordnet/pypsa-investment.ipynb
-  - title: "Exploration: Electricity Systems"
-    children:
-    - file: nordnet/exploration-electricity.md
-  - title: "Tutorial: Sector Coupling"
-    children:
-    - file: nordnet/pypsa-sectors.ipynb
-  - title: "Exploration: Sector Coupling"
-    children:
-    - file: nordnet/exploration-sector-coupling.md
+  - file: nordnet/setup.md
+  - file: nordnet/python-pandas.ipynb
+  - file: nordnet/pypsa-intro.ipynb
+  - file: nordnet/pypsa-investment.ipynb
+  - file: nordnet/exploration-electricity.md
+  - file: nordnet/pypsa-sectors.ipynb
+  - file: nordnet/exploration-sector-coupling.md
 site:
   options:
     folders: true
+    logo_text: NordNET
   template: book-theme
