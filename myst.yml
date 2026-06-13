@@ -30,8 +30,6 @@ project:
   - file: nordnet/exploration-sector-coupling.md
   - file: nordnet/exploration-household.ipynb
   - file: nordnet/open-tyndp.ipynb
-  exclude:
-  - file: nordnet/open-tyndp.ipynb
 site:
   options:
     folders: true

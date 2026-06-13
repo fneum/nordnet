@@ -30,13 +30,13 @@ Use the [sector coupling notebook](./pypsa-sectors.ipynb) as a starting point fo
 
 - **Biomass CHP:** Add a biomass CHP technology with the following parameters:
 
-- Maximum production: 50 TWh/a of electricity
-- Fuel cost: 15 €/MWh of biomass
-- Electrical efficiency: 30%
-- Heat efficiency: 70%
-- Overnight  investment cost: 3500 €/kW of electrical capacity
-- Lifetime: 30 years
-- Discount rate: 7%
+    - Maximum production: 50 TWh/a of electricity
+    - Fuel cost: 15 €/MWh of biomass
+    - Electrical efficiency: 30%
+    - Heat efficiency: 70%
+    - Overnight  investment cost: 3500 €/kW of electrical capacity
+    - Lifetime: 30 years
+    - Discount rate: 7%
 
 You can use the attribute `e_sum_max` for specifying the maximum production.
 
