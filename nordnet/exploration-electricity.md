@@ -1,9 +1,8 @@
 # Exploration: Electricity Systems
 
 Use the [capacity expansion notebook](./pypsa-investment.ipynb) as a starting point for your own adventure.
-To try out your skills in a regional case study, feel free to explore the [Exploration: GB-IE electricity system](./exploration-gb-ie.ipynb).
-
 Below you can find some ideas for sensitivities to explore and metrics to look at.
+To try out your skills in a regional case study, feel free to explore the [GB-IE electricity system](./exploration-gb-ie.ipynb) notebook.
 
 ## Metrics
 
