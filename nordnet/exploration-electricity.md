@@ -41,5 +41,5 @@ Below you can find some ideas for sensitivities to explore and metrics to look a
 **Feel free to explore other ideas as well!**
 
 :::{note}
-    **Not enough?** Have a look at the [3-node investment model](https://docs.pypsa.org/latest/examples/3-node-cem/) in the PyPSA documentation for more inspiration.
+**Not enough?** Have a look at the [3-node investment model](https://docs.pypsa.org/latest/examples/3-node-cem/) in the PyPSA documentation for more inspiration.
 :::
