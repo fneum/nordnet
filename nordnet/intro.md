@@ -24,6 +24,6 @@ Checkout the [documentation](https://docs.pypsa.org)
 for more details.
 :::
 
-<iframe src="../_static/nordnet-introduction.pdf" width="100%" height="600px" style="border:none;">
-    <a href="../_static/nordnet-introduction.pdf">Download slides (PDF)</a>
-</iframe>
+<div style="text-align: center;">
+  <iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/fneum/nordnet/main/_static/lecture-nordnet-intro.pdf" width="100%" height="600" frameborder="0"></iframe>
+</div>
