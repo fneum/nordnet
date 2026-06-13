@@ -27,6 +27,7 @@ project:
   - file: nordnet/pypsa-investment.ipynb
   - file: nordnet/exploration-electricity.md
   - file: nordnet/exploration-gb-ie.ipynb
+  - file: nordnet/exploration-gb-ie-solution.ipynb
   - file: nordnet/pypsa-sectors.ipynb
   - file: nordnet/exploration-sector-coupling.md
   - file: nordnet/exploration-household.ipynb
