@@ -5,7 +5,6 @@ dsesm/data
 *.tiff
 *.tif
 *.html
-*.png
 dsesm/tmp/
 dsesm/_build/
 dsesm/*.csv

@@ -10,7 +10,7 @@ Below you can find some ideas for sensitivities to explore and metrics to look a
 
 - Installed **capacities** of the different technologies (fossil gas, wind, solar, battery, hydrogen storage, etc.). This can be accessed from `n.statistics.optimal_capacity()`.
 
-- **Energy mix** and balances of different carrier as time series. This can be accessed from `n.statistics.energy_balance(groupby=["bus", "carrier"])` and plotted interactively with `n.statistics.energy_balance.iplot.area(bus_carrier="AC")`.
+- **Energy mix** and balances of different carrier as time series. This can be accessed from `n.statistics.energy_balance()` and plotted interactively with `n.statistics.energy_balance.iplot.area(bus_carrier="electricity")`.
 
 - Electricity **prices** (average and duration curve). These can be accessed under `n.buses_t.marginal_price`.
 
