@@ -17,4 +17,5 @@ dependencies = [
     "ghp-import",
     "pre-commit",
     "xarray",
+    "demandlib>=0.2.2",
 ]

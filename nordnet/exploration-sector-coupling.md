@@ -1,4 +1,4 @@
-# Exploration: Sector Coupling
+# Exploration: Sector Coupling (System)
 
 Use the [sector coupling notebook](./pypsa-sectors.ipynb) as a starting point for your own exploration.
 
